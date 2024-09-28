@@ -17,7 +17,7 @@ To write a C program to implement a symbol table.
 
 Program to implement a Symbol Table.
 
-Developed by : Lakshmi mounika
+Developed by : Lakshmi mounika.
 
 RegisterNumber : 212223100026
 
